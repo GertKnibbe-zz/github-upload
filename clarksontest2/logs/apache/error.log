@@ -1,0 +1,9 @@
+AH00557: httpd: apr_sockaddr_info_get() failed for LLs-MacBook-Pro.local
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 21 12:02:04.501020 2022] [mpm_event:notice] [pid 13146:tid 4755389952] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Jan 21 12:02:04.512432 2022] [core:notice] [pid 13146:tid 4755389952] AH00094: Command line: '/Users/ll_user/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ll_user/Library/Application Support/Local/run/OF4wry0Bz/conf/apache/apache2.conf'
+[Fri Jan 21 15:34:45.977573 2022] [mpm_event:notice] [pid 13146:tid 4755389952] AH00491: caught SIGTERM, shutting down
+AH00557: httpd: apr_sockaddr_info_get() failed for LLs-MacBook-Pro.local
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 24 10:33:03.689866 2022] [mpm_event:notice] [pid 1644:tid 4397309440] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jan 24 10:33:03.690559 2022] [core:notice] [pid 1644:tid 4397309440] AH00094: Command line: '/Users/ll_user/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/ll_user/Library/Application Support/Local/run/OF4wry0Bz/conf/apache/apache2.conf'
